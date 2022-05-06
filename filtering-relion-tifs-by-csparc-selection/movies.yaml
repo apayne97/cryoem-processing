@@ -1,0 +1,6 @@
+## Hi there!
+## This is an example of a movies.yaml file with multiple datasets, taking the form:
+## dataset_tag: path_to_movies.star
+---
+BA-08192021: /Users/alexpayne/Scientific_Projects/programming-help/ben-cryoem-help/BA-08192021_movies.star
+20210930-CMG: /Users/alexpayne/Scientific_Projects/programming-help/ben-cryoem-help/20210930-CMG_movies.star
